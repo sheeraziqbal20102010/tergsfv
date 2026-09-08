@@ -1,0 +1,6 @@
+{
+  "name": "Secure Quiz Master",
+  "description": "Anti-cheating secure online quiz platform with full-screen enforcement, tab monitoring, randomized ICT question sets, and automatic Google Sheets response logging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
